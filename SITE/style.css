@@ -1,0 +1,44 @@
+body{
+    font-family: 'Courier Prime', 'Serif';
+    background: #836FFF;
+    margin: 0;
+}
+header{
+    background: #6959CD;
+}
+.caixa{
+    text-align: center;
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+}
+
+.imagem{
+    text-align: center;
+    image-rendering: auto;
+    width: 470px;
+    margin: auto 245px;
+}
+ul {
+    list-style-type: none
+   }
+footer{
+    text-align: center;
+    background: #6959CD;
+    padding: 10px 0;
+    position: relative;
+    width: 900px;
+    margin: 0 auto;
+}
+li{
+    text-align: left
+   }
